@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css?family=Abel:100,200,300,400,500,600,700|Tangerine:100,200,300,400,500,600,700');
+
+/*-- logo--*/
+
+.logo{
+    font-family: "Tangerine", sans-serif;
+    text-decoration: none;
+    font-size: 100px;
+}
