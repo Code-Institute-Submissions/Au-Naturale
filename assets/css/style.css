@@ -24,10 +24,11 @@
 
 #cf {
   position:relative;
-  height:281px;
+  height:600x;
   width:450px;
   margin:0 auto;
-}
+  object-fit:fill;
+  }
 
 #cf img {
   position:absolute;
@@ -41,3 +42,4 @@
 #cf img.top:hover {
   opacity:0;
 }
+ 
