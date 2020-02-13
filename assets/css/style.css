@@ -23,20 +23,24 @@
 /*-- jumbotron/crossfading images--*/
 
 .styling{
-    background-color;
+    background-color:blueviolet;
     width: 800px;
     margin-left: 250x;
     align-content: center;
     border-top: 30%;
+    position: relative;
 
 }
 
-h2.display-4 {
-    padding-left: 300px;
-    font-size: 4.5em;
-    display:block;
+h2.display-4{
+   padding-left: 300px;
+    font-size: 4.7em;
+    display: block;
     margin: auto;
-} 
+    position: relative;
+    bottom: 300px;
+    left: 150px;
+}
 
 .book-button{
     font-size: 3em;
