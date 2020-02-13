@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Abel:100,200,300,400,500,600,700|Tangerine:100,200,300,400,500,600,700');
+@import url('https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700|Tangerine:100,200,300,400,500,600,700');
 
 /*-- Colors--*/
 .navbar a{
@@ -26,7 +26,7 @@ h2.display-4{
     
 }
 .navbar a{
-    font-family: "Abel",sans-serif;
+    font-family: "Roboto",sans-serif;
     font-size: 40px;
     text-decoration:none;
   letter-spacing: 4px;
@@ -47,7 +47,8 @@ h2.display-4{
 
 h2.display-4{
    padding-left: 300px;
-   font-family: "Abel",sans-serif;
+   font-family: "Roboto",sans-serif;
+   font-weight: 400;
     font-size: 4.7em;
     display: block;
     margin: auto;
