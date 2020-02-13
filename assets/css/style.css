@@ -29,6 +29,6 @@
 h2.display-4 {
     padding-left: 300px;
     font-size: 4.5em;
-    display: inline-grid;
+    display:block;
     margin: auto;
 } 
