@@ -22,8 +22,13 @@
 
 /*-- jumbotron/crossfading images--*/
 
-.jumbotron-fluid{
+.styling{
     background-color: pink;
+    width: 800px;
+    margin-left: 250px;
+    align-content: center;
+    border-top: 30%;
+
 }
 
 h2.display-4 {
