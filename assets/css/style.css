@@ -32,3 +32,9 @@ h2.display-4 {
     display:block;
     margin: auto;
 } 
+
+.book-button{
+    font-size: 3em;
+    color: black;
+    padding-left: 425px;
+}
