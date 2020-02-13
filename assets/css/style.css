@@ -18,6 +18,9 @@ h2.display-4{
   color: rgb(190, 186, 186);  
 }
 
+.btn-primary{
+    color-adjust: unset;
+}
 /*-- logo/navbar--*/
 
 .logo {
@@ -43,16 +46,16 @@ h2.display-4{
     width: 800px;
     align-content: center;
     position: relative;
+    margin-left:150px;
 
 }
 
 h2.display-4{
-   padding-left: 300px;
+   padding-left: 150px;
    font-family: "Roboto",sans-serif;
    font-weight: 400;
     font-size: 4.7em;
     display: block;
-    margin: auto;
     position: relative;
     bottom: 300px;
     left: 150px;
@@ -60,11 +63,13 @@ h2.display-4{
 
 .book-button{
     font-size: 3em;
-    padding-left: 425px;
     position: absolute;
     bottom: 230px;
     left: 150px;
     font-family: "Roboto", sans-serif;
+    width: 743px;
+    background-color: transparent;
+    border-color: transparent;
 }
 
 /*-- jumotron media query --*/
