@@ -1,12 +1,26 @@
 @import url('https://fonts.googleapis.com/css?family=Abel:100,200,300,400,500,600,700|Tangerine:100,200,300,400,500,600,700');
 
+/*-- Colors--*/
+.navbar a{
+    color: rgb(190, 186, 186);
+
+}
+.logo{
+    color: rgb(239, 206, 225);
+}
+
+h2.display-4{
+     color: rgb(190, 186, 186);
+
+}
+
+
 /*-- logo/navbar--*/
 
 .logo {
     font-family: "Tangerine", sans-serif;
     text-decoration: none;
     font-size: 100px;
-    color: rgb(239, 206, 225);
     padding-left:400px;
 
     
@@ -14,7 +28,6 @@
 .navbar a{
     font-family: "Abel",sans-serif;
     font-size: 40px;
-    color: rgb(190, 186, 186);
     text-decoration:none;
   letter-spacing: 4px;
 
@@ -34,6 +47,7 @@
 
 h2.display-4{
    padding-left: 300px;
+   font-family: "Abel",sans-serif;
     font-size: 4.7em;
     display: block;
     margin: auto;
