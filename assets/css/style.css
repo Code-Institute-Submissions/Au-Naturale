@@ -97,4 +97,11 @@ h2.display-4{
 .about-us-paragraph{
     font-family: "Roboto", sans-serif;
     font-weight: 400;
+    font-size: larger;
+}
+
+.about-us-image{
+    height: fit-content;
+    width: 600px;
+    
 }
