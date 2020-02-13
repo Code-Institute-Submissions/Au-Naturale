@@ -82,5 +82,7 @@ h2.display-4{
 .about-heading {
     text-align: center;
     line-height: 2;
-    font-weight:500;
+    font-weight: 500;
+    color: #808080cf;
+    text-shadow: 0px 1px 20px black;
 }
