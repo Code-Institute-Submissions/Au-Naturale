@@ -39,11 +39,9 @@ h2.display-4{
 /*-- jumbotron/crossfading images--*/
 
 .styling{
-    background-color:blueviolet;
+    background-color:;
     width: 800px;
-    margin-left: 250x;
     align-content: center;
-    border-top: 30%;
     position: relative;
 
 }
@@ -68,4 +66,10 @@ h2.display-4{
     left: 150px;
     font-family: "Roboto", sans-serif;
 }
-}
+
+/*-- jumotron media query --*/
+/*--.book-button{
+
+}--*/
+
+/*-- abouts us--*/
