@@ -14,6 +14,9 @@ h2.display-4{
 
 }
 
+.book-button{
+  color: rgb(190, 186, 186);  
+}
 
 /*-- logo/navbar--*/
 
@@ -59,7 +62,6 @@ h2.display-4{
 
 .book-button{
     font-size: 3em;
-    color: black;
     padding-left: 425px;
     position: absolute;
     bottom: 230px;
