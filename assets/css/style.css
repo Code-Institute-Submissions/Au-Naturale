@@ -141,7 +141,6 @@ h2.display-4{
 }
 .container-services p {
     margin-top: 0;
-    margin-bottom: 2rem;
     text-align: justify;
 }
 .row-services-1{
@@ -152,6 +151,16 @@ h2.display-4{
 }
 .row-services-2 {
     margin-bottom: 5px;
+}
+
+.deep-condition-heading {
+    text-align: center;
+}
+
+.deep-condition-price{
+    
+    font-size: 1.5rem;
+    padding-left: 50px;
 }
 
 
