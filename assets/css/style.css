@@ -89,7 +89,9 @@ h2.display-4{
     line-height: 2;
     font-weight: 500;
     text-shadow: 0px 1px 20px rgb(165, 164, 164);
-    font-size: 3rem
+    font-size: 3rem;
+    padding-bottom: 50px;
+    
 }
 
 .about-us-paragraph{
@@ -109,6 +111,7 @@ h2.display-4{
     font-size: 3rem;
     text-align: center;
     padding-top: 100px;
+    padding-bottom: 50px;
 
 }
 
