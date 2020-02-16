@@ -26,6 +26,9 @@ h2.display-4{
 .about-us-paragraph{
 color: rgb(190, 186, 186);
 }
+.services{
+color: rgb(190, 186, 186);
+}
 /*-- logo/navbar--*/
 
 .logo {
@@ -112,6 +115,7 @@ h2.display-4{
     text-align: center;
     padding-top: 100px;
     padding-bottom: 50px;
+    text-shadow: 0px 1px 20px rgb(165, 164, 164);
 
 }
 
