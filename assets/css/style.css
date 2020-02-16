@@ -29,6 +29,9 @@ color: rgb(190, 186, 186);
 .services{
 color: rgb(190, 186, 186);
 }
+
+.container-services{color: rgb(190, 186, 186);
+}
 /*-- logo/navbar--*/
 
 .logo {
@@ -121,12 +124,18 @@ h2.display-4{
 
 .wash-n-go-heading {
     text-align: center;
+    padding-bottom: 5px;
+    
 }
- .price{
+.wash-n-go-price{
     padding-left: 80px;
     font-size: 1.5rem;
 }
 
+.container-services{
+    font-family: "Roboto", sans-serif;
+
+}
 
 
 /*-- book appointments--*/
