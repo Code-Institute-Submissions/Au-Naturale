@@ -173,6 +173,14 @@ h2.display-4{
     padding-left: 50px;
 }
 
+.twists-out-heading {
+    text-align: center;
+    padding-left: 40px;
+}
+.twists-out-price {
+    font-size: 1.5rem;
+    padding-left: 70px;
+}
 
 /*-- book appointments--*/
 /*-- images--*/
