@@ -163,6 +163,16 @@ h2.display-4{
     padding-left: 50px;
 }
 
+.clay-mask-treatment-heading {
+    text-align: center;
+    padding-right: 30px;
+}
+
+.clay-mask-treatment-price {
+    font-size: 1.5rem;
+    padding-left: 50px;
+}
+
 
 /*-- book appointments--*/
 /*-- images--*/
