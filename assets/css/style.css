@@ -19,7 +19,7 @@ h2.display-4{
 }
 
 
-.about-heading {
+.about-us-heading {
  color: rgb(190, 186, 186);
 }
 
@@ -84,11 +84,12 @@ h2.display-4{
 
 /*-- abouts us--*/
 
-.about-heading {
+.about-us-heading {
     text-align: center;
     line-height: 2;
     font-weight: 500;
-    text-shadow: 0px 1px 20px rgb(165, 164, 164)
+    text-shadow: 0px 1px 20px rgb(165, 164, 164);
+    font-size: 3rem
 }
 
 .about-us-paragraph{
@@ -103,6 +104,11 @@ h2.display-4{
     
 }
 /*-- services--*/
+
+
+
+
+
 /*-- book appointments--*/
 /*-- images--*/
 /*-- contact us--*/
