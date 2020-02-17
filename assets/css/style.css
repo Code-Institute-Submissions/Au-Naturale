@@ -211,25 +211,5 @@ h2.display-4{
 /*-- book appointments--*/
 
 
-.book-appointment-form {
-    font-size:1.5rem;
-    font-family: "Roboto",sans-serif;
-
-}
-.book-appointment {
-    text-align: center;
-    font-size: 3rem;
-    font-family: "Roboto",sans-serif;
-    text-shadow: 0px 1px 20px rgb(165, 164, 164);
-
-}
-
-.payment {
-    font-size: 1rem;
-    font-weight: 400;
-    font-family: "Roboto", sans-serif;
-    text-align: center;
-    padding-bottom: 20px;
-}
 /*-- images--*/
 /*-- contact us--*/
