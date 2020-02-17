@@ -36,6 +36,9 @@ color: rgb(87, 84, 84);
 .container-services{
     color: rgb(87, 84, 84);
 }
+.book-appointment-form {
+color: rgb(87, 84, 84);
+}
 /*-- logo/navbar--*/
 
 .logo {
@@ -88,9 +91,7 @@ h2.display-4{
 }
 
 /*-- jumotron media query --*/
-/*--.book-button{
 
-}--*/
 
 /*-- abouts us--*/
 
@@ -202,5 +203,11 @@ h2.display-4{
     padding-left: 50px;
 }
 /*-- book appointments--*/
+
+
+.book-appointment-form {
+    font-size:1.5rem;
+
+}
 /*-- images--*/
 /*-- contact us--*/
