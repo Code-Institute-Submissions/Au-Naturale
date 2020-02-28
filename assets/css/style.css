@@ -65,14 +65,6 @@ color: rgb(87, 84, 84);
 
 /*-- jumbotron/crossfading images--*/
 
-.styling{
-    background-color:;
-    width: 800px;
-    align-content: center;
-    position: relative;
-    margin-left:126px;
-
-}
 
 h2.display-4{
    padding-left: 150px;
@@ -91,17 +83,17 @@ h2.display-4{
     bottom: 230px;
     left: 150px;
     font-family: "Roboto", sans-serif;
-    width: 743px;
+    width: 350px;
     background-color: transparent;
     border-color: transparent;
 }
 
 .image-1{
-   height: 600px;
-    width: 1200px;
+
+    width:100%;
 }
                
-}
+
 
 /*-- jumotron media query --*/
 
@@ -125,8 +117,7 @@ h2.display-4{
 }
 
 .about-us-image{
-    height: fit-content;
-    width: 600px;
+    width: 100%;
     
 }
 /*-- services--*/
@@ -220,21 +211,21 @@ h2.display-4{
 
 /*-- images--*/
 .afro-women {
-    width: 400px;
+    width: 100%;;
 }
 
 .bald-women {
-    width: 400px;
+    width: 100%;
 }
 
 .afro-style {
-    width: 300px;
-    height: 300px;
+    width: 100%;
+   
 }
 
 .afro-hair {
-    width: 200px;
-    height: 250px;
+    width: 100%;
+  
     
 }
 
