@@ -52,20 +52,19 @@ color: rgb(87, 84, 84);
 .logo {
     font-family: "Tangerine", sans-serif;
     text-decoration: none;
-    font-size: 100px;
-    margin: auto;
-
-    
+    font-size: 70px;
+    margin: auto;    
 }
 .navbar {
     font-family: "Roboto",sans-serif;
     font-size: 20px;
     text-decoration:none;
     letter-spacing: 4px;
-
+   
 }
 .nav-item a {
     word-spacing: -0.1cm;
+    text-align: center;
 }
 
 
@@ -87,7 +86,6 @@ color: rgb(87, 84, 84);
     bottom: 7% ;
     left: 55%;
     font-family: "Roboto", sans-serif;
-    width: 350px;
     background-color: transparent;
     border-color: transparent;
 
