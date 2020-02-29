@@ -59,11 +59,15 @@ color: rgb(87, 84, 84);
 }
 .navbar {
     font-family: "Roboto",sans-serif;
-    font-size: 40px;
+    font-size: 20px;
     text-decoration:none;
-  letter-spacing: 4px;
+    letter-spacing: 4px;
 
 }
+.nav-item a {
+    word-spacing: -0.1cm;
+}
+
 
 /*-- jumbotron/crossfading images--*/
 
