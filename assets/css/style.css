@@ -193,6 +193,15 @@ a:not([href]):hover {
     
 }
 
+#container-background-image{ 
+  background: url(../images/Optimized-black-pink.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+
 .wash-n-go-heading {
     text-align: center;
     
