@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700|Tangerine:100,200,300,400,500,600,700');
+@import url('https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700|Tangerine:100,200,300,400,500,600,700|Lato:100,200,300,400,500,600,700');
 
 /*-- Colors--*/
 .navbar a{
@@ -6,7 +6,7 @@
 
 }
 .logo{
-    color: rgb(239, 206, 225);
+    color: rgba(255, 180, 223, 0.78);
 }
 
 h2.display-4{
@@ -72,7 +72,7 @@ color: rgb(87, 84, 84);
 /*-- css to overide the inherited color by bootstrap --*/
 a:not([href]){
     
-color: #c59b8c;
+color: rgba(208, 153, 134, 0.93);
 text-decoration: overline;
 }
 
