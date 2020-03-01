@@ -45,10 +45,19 @@ color: rgb(87, 84, 84);
 .payment{
 color: rgb(87, 84, 84);
 }
+
+
 /*-- logo/navbar--*/
  .au-naturale-logo{
      text-align: center;
  }
+
+ /*-- au-naturale-logo hover bootstrap override--*/
+a:hover {
+    color: rgba(255, 180, 223, 0.78);
+    text-decoration:none;
+}
+
 .logo {
     font-family: "Tangerine", sans-serif;
     text-decoration: none;
@@ -69,14 +78,17 @@ color: rgb(87, 84, 84);
 
 }
 
-/*-- css to overide the inherited color by bootstrap --*/
+/*-- love your fro bootstrap css overide --*/
 a:not([href]){
     
 color: rgba(208, 153, 134, 0.93);
 text-decoration: overline;
 }
 
-
+a:not([href]):hover {
+    color: rgba(208, 153, 134, 0.93);
+    text-decoration: overline;
+}
 .navbar {
     font-family: "Roboto",sans-serif;
     font-size: 20px;
