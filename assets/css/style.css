@@ -20,8 +20,9 @@ h2.display-4{
 
 
 .about-us-heading {
- color: rgb(87, 84, 84);
+ color:rgba(74, 41, 55, 0.35);
 }
+
 
 
 .about-us-paragraph{
@@ -89,6 +90,9 @@ a:not([href]):hover {
     color: rgba(208, 153, 134, 0.93);
     text-decoration: overline;
 }
+
+
+
 .navbar {
     font-family: "Roboto",sans-serif;
     font-size: 20px;
@@ -117,7 +121,7 @@ a:not([href]):hover {
     top: 30%;
 
 }
-/* Grow */
+/*  book button hover Grow */
 .hvr-grow {
     display: inline-block;
     vertical-align: middle;
@@ -153,19 +157,16 @@ a:not([href]):hover {
   background-size: cover;
 }           
 
-
-/*-- jumotron media query --*/
-
-
 /*-- abouts us--*/
 
 .about-us-heading {
+    font-family: "lato",sans-serif;
     text-align: center;
     line-height: 2;
     font-weight: 500;
-    text-shadow: 0px 1px 20px rgb(165, 164, 164);
     font-size: 3rem;
-    padding-bottom: 50px;
+    padding-bottom: 30px;
+    margin-top: 30px;
     
 }
 
