@@ -57,11 +57,23 @@ color: rgb(87, 84, 84);
 }
 
 .love-your-fro{
-    font-family: "Roboto",sans-serif;
-   font-weight: 400;
-    display: block;
-    position: relative;
-    float:right;
+    font-family: "Tangerine", sans-serif;
+    font-size: 2rem;
+    font-weight: 400;
+    position: absolute;
+    top: 10%;
+    align-items: center;
+    text-align: center;
+    margin-top: 10px;
+    left: 35%;
+
+}
+
+/*-- css to overide the inherited color by bootstrap --*/
+a:not([href]){
+    
+color: #c59b8c;
+text-decoration: overline;
 }
 
 
@@ -70,6 +82,7 @@ color: rgb(87, 84, 84);
     font-size: 20px;
     text-decoration:none;
     letter-spacing: 4px;
+    margin-top:20px;
    
 }
 .nav-item a {
