@@ -187,10 +187,16 @@ a:not([href]):hover {
 
     @media (min-width: 768px) and (max-width: 991.98px) { 
         .about-us-paragraph{
-            font-size: 16.5px;
+            font-size: 16px;
         }
         
      }
+
+     @media (min-width: 992px) and (max-width: 1199.98px) { 
+         .about-us-paragraph{
+             font-size: 21px;
+         }
+      }
 
 
 
