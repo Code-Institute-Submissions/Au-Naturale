@@ -68,15 +68,15 @@ a:hover {
 
 .love-your-fro{
     font-family: "Tangerine", sans-serif;
-    font-size: 2rem;
+    font-size: 2.5rem;
     font-weight: 400;
     position: absolute;
-    top: 10%;
     align-items: center;
     text-align: center;
     left: 35%;
 
 }
+
 
 /*-- love your fro bootstrap css overide --*/
 a:not([href]){
