@@ -283,6 +283,10 @@ padding-left: 5px;
 
 
 /*-- images--*/
+.container-images{
+background-color: pink;
+}
+
 .afro-women {
     width: 100%;;
 }
