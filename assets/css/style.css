@@ -43,10 +43,10 @@ color: rgb(87, 84, 84);
 .book-appointment{
 color:rgba(74, 41, 55, 0.35);
 }
-.payment{
-color: rgb(87, 84, 84);
-}
 
+.payment em {
+ color:    rgb(87, 84, 84);
+}
 
 /*-- logo/navbar--*/
  .au-naturale-logo{
@@ -267,6 +267,9 @@ label{
 padding-left: 5px;
 }
 
+.book-appointment-button{
+    
+}
 
 /*-- images--*/
 .afro-women {
