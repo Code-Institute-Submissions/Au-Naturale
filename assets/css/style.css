@@ -236,20 +236,19 @@ width: 100%;
   background-size: cover;
 }
 
-
-.wash-n-go-heading {
-  
-    
-}
 .wash-n-go-price{
     padding-left: 80px;
-    font-size: 1.5rem;
 }
 
 .container-services{
     font-family: "Roboto", sans-serif;
 
 }
+
+.container-services h3 span{
+font-size: 1.5rem;
+}
+
 .container-services p {
     margin-top: 0;
     text-align: justify;
@@ -257,8 +256,7 @@ width: 100%;
 
 .deep-condition-price{
     
-    font-size: 1.5rem;
-    padding-left: 50px;
+ padding-left: 30px
 }
 
 .clay-mask-treatment-heading {
@@ -267,26 +265,26 @@ width: 100%;
 }
 
 .clay-mask-treatment-price {
-    font-size: 1.5rem;
-    padding-left: 50px;
+
+    padding-left: 50px
 }
 
-.twists-out-heading {
-    
-    padding-left: 40px;
+@media (max-width: 575.98px) { 
+    .clay-mask-treatment-price{
+        padding-left: 1.2px ;
+    }
 }
+
 .twists-out-price {
-    font-size: 1.5rem;
     padding-left: 70px;
 }
 
 .hair-trim-price {
-    font-size: 1.5rem;
+    
     padding-left: 60px;
 }
 
 .the-big-chop-price {
-    font-size: 1.5rem;
     padding-left: 50px;
 }
 /*-- book appointments--*/
