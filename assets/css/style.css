@@ -208,7 +208,7 @@ width: 100%;
 
 #overlay {
   
-  width: 100%;  
+  width: 100%;
   top: 0;
   left: 0;
   right: 0;
@@ -280,19 +280,9 @@ width: 100%;
     padding-left: 70px;
 }
 
-.hair-trim-heading {
-    
-    padding-right: 30px;
-}
-
 .hair-trim-price {
     font-size: 1.5rem;
     padding-left: 60px;
-}
-
-.the-big-chop-heading {
-  
-    padding-left: 30px;
 }
 
 .the-big-chop-price {
