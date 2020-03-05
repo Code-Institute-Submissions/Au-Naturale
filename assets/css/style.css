@@ -268,7 +268,11 @@ padding-left: 5px;
 }
 
 .book-appointment-button{
-    
+    position: relative;
+    left: 45%;
+    background-color: pink;
+    border-color: pink;
+    color: #f5f5f5e8;
 }
 
 /*-- images--*/
