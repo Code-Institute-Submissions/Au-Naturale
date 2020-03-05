@@ -41,7 +41,7 @@ color:rgba(74, 41, 55, 0.35);
 color: rgb(87, 84, 84);
 }
 .book-appointment{
-color: rgb(87, 84, 84);
+color:rgba(74, 41, 55, 0.35);
 }
 .payment{
 color: rgb(87, 84, 84);
@@ -219,7 +219,7 @@ width: 100%;
 }
 
 .services {
-    font-family: "Roboto", sans-serif;
+    font-family: "lato", sans-serif;
     font-size: 3rem;
     text-align: center;
     padding-top: 10px;
@@ -255,7 +255,10 @@ float: right;
 
 /*-- book appointments--*/
 
-
+.book-appointment{
+    font-family: "lato",sans-serif;
+    font-size: 3rem;
+}
 /*-- images--*/
 .afro-women {
     width: 100%;;
