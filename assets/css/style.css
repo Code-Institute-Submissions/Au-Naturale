@@ -287,23 +287,10 @@ padding-left: 5px;
 background-color: pink;
 }
 
-.afro-women {
-    width: 100%;;
-}
-
-.bald-women {
-    width: 100%;
-}
-
-.afro-style {
-    width: 100%;
-   
-}
-
-.afro-hair {
-    width: 100%;
-  
-    
+.container-images img{
+     width: 100%;
+     margin-bottom: 30px;
+     margin-top: 30px;
 }
 
 .image-section{
