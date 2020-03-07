@@ -48,6 +48,9 @@ color:rgba(74, 41, 55, 0.35);
  color:    rgb(87, 84, 84);
 }
 
+.contact-us{
+    color:rgba(74, 41, 55, 0.35);
+}
 /*-- logo/navbar--*/
  .au-naturale-logo{
      text-align: center;
@@ -300,4 +303,11 @@ padding-top: 70px}
 
 .salon-picture{
     width: 100%;
+}
+
+.contact-us{
+    font-family: "lato", sans-serif;
+    font-size: 3rem;
+    margin: 50px;
+}
 }
