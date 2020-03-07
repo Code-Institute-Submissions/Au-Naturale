@@ -54,6 +54,10 @@ color:rgba(74, 41, 55, 0.35);
 .salon-hours{
      color: rgb(87, 84, 84);
 }
+
+.time-list{ 
+    color:rgb(87, 84, 84);}
+
 /*-- logo/navbar--*/
  .au-naturale-logo{
      text-align: center;
@@ -319,7 +323,12 @@ padding-top: 70px}
 }
 
 
-.time-list{}
+.time-list{
+    list-style: none;
+    font-family: "Roboto",sans-serif;
+    font-size: 20px;
+    margin-bottom: 30px;
+    text-align: center;}
 
 .salon-picture{
     width: 100%;
