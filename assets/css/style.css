@@ -360,3 +360,18 @@ padding-top: 70px}
     white-space: pre-wrap;
     font-family: "Roboto",sans-serif;
 }
+
+ .map {
+    position: relative;
+    left: 5%;
+    margin-top: 20px;
+}
+
+@media (min-width: 1200px) { 
+    
+    .map{
+    
+    left: 30% }
+    
+    }
+
