@@ -62,6 +62,9 @@ color:rgba(74, 41, 55, 0.35);
         color:rgb(87, 84, 84);
     }
 
+.contact-details p{
+        color:rgb(87, 84, 84);
+    }
 /*-- logo/navbar--*/
  .au-naturale-logo{
      text-align: center;
@@ -346,3 +349,8 @@ padding-top: 70px}
     font-family: "lato",sans-serif;
 }
 
+.telephone-number {
+    font-size: 1.25rem;
+    font-family: "Roboto",sans-serif;
+
+}
