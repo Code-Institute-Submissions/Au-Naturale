@@ -58,6 +58,10 @@ color:rgba(74, 41, 55, 0.35);
 .time-list{ 
     color:rgb(87, 84, 84);}
 
+    .contact-details h3{
+        color:rgb(87, 84, 84);
+    }
+
 /*-- logo/navbar--*/
  .au-naturale-logo{
      text-align: center;
@@ -334,5 +338,11 @@ padding-top: 70px}
     width: 100%;
     margin-top: 30px;
     font-weight: 450
+}
+
+
+.contact-details h3 {
+   
+    font-family: "lato",sans-serif;
 }
 
