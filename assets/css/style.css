@@ -347,10 +347,16 @@ padding-top: 70px}
 .contact-details h3 {
    
     font-family: "lato",sans-serif;
+    margin-top: 20px;
 }
 
 .telephone-number {
     font-size: 1.25rem;
     font-family: "Roboto",sans-serif;
 
+}
+
+.address-paragraph {
+    white-space: pre-wrap;
+    font-family: "Roboto",sans-serif;
 }
