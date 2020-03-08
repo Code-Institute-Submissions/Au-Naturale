@@ -65,10 +65,16 @@ color:rgba(74, 41, 55, 0.35);
 .contact-details p{
         color:rgb(87, 84, 84);
     }
+
+.container-footer{
+    background-color: pink
+}
+
 /*-- logo/navbar--*/
  .au-naturale-logo{
      text-align: center;
  }
+
 
  /*-- au-naturale-logo hover bootstrap override--*/
 a:hover {
@@ -375,3 +381,10 @@ padding-top: 70px}
     
     }
 
+/*--footer--*/
+
+.container-footer{
+    background-color: pink
+}
+
+.address-footer{}
