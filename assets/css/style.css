@@ -414,3 +414,18 @@ padding-top: 70px}
     }
     
     }
+
+    @media (min-width: 1200px) { 
+    
+    .icons{
+    float: right;
+    padding-inline-start: 40px;
+    font-size: 2rem;
+   
+    
+    
+    }
+    
+    }
+
+    
