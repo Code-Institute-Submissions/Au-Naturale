@@ -70,6 +70,10 @@ color:rgba(74, 41, 55, 0.35);
     background-color: pink
 }
 
+.address-footer{
+     color:rgb(87, 84, 84);
+}
+
 /*-- logo/navbar--*/
  .au-naturale-logo{
      text-align: center;
@@ -363,7 +367,7 @@ padding-top: 70px}
 }
 
 .address-paragraph {
-    white-space: pre-wrap;
+    white-space: pre-line;
     font-family: "Roboto",sans-serif;
 }
 
@@ -387,4 +391,7 @@ padding-top: 70px}
     background-color: pink
 }
 
-.address-footer{}
+
+.address-footer {
+    white-space: pre-line;
+}
