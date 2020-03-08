@@ -401,3 +401,16 @@ padding-top: 70px}
     position: relative;
     padding: 0;
 }
+
+ @media (min-width: 992px) and (max-width: 1199.98px) { 
+    
+    .icons{
+    float: right;
+    padding-inline-start: 40px;
+    font-size: 2rem;
+   
+    
+    
+    }
+    
+    }
