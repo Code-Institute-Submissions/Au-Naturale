@@ -117,23 +117,12 @@ a:hover {
     text-decoration: overline;
 }
 
-
-
-
-a:not([href]):hover {
-    color: rgba(208, 153, 134, 0.93);
-    text-decoration: overline;
-}
-
-
-
 .navbar {
     font-family: "Roboto",sans-serif;
     font-size: 20px;
     text-decoration:none;
     letter-spacing: 4px;
     margin-bottom: 10px;
-
    
 }
 .nav-item a {
@@ -400,7 +389,7 @@ padding-top: 70px}
 }
 
 .icons {
-    font-size: 1.5rem;
+    
     position: relative;
     padding: 0;
 }
@@ -409,7 +398,6 @@ padding-top: 70px}
     
     .icons{
     float: right;
-    padding-inline-start: 40px;
     font-size: 2rem;
    
     
@@ -422,7 +410,6 @@ padding-top: 70px}
     
     .icons{
     float: right;
-    padding-inline-start: 40px;
     font-size: 2rem;
    
     
@@ -434,7 +421,6 @@ padding-top: 70px}
     
     .icons{
     float: right;
-    padding-inline-start: 40px;
     font-size: 2rem;
    
     
