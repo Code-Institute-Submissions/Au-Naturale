@@ -78,6 +78,7 @@ color:rgba(74, 41, 55, 0.35);
      color:rgb(87, 84, 84);
 }
 
+
 /*-- logo/navbar--*/
  .au-naturale-logo{
      text-align: center;
@@ -393,4 +394,10 @@ padding-top: 70px}
 
 .address-footer {
     white-space: pre-line;
+}
+
+.icons {
+    font-size: 1.5rem;
+    position: relative;
+    padding: 0;
 }
