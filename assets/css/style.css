@@ -132,7 +132,7 @@ a:not([href]):hover {
     font-size: 20px;
     text-decoration:none;
     letter-spacing: 4px;
-    margin-top: 4rem;
+    margin-bottom: 10px;
 
    
 }
@@ -172,11 +172,6 @@ a:not([href]):hover {
 .hvr-grow:focus,
 .hvr-grow:active {
     transform: scale(1.1);
-}
-
-#Jumbotron-background-image{
-    
-
 }
 
     .Jumbotron { 
