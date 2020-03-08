@@ -9,6 +9,10 @@
     color: rgba(255, 180, 223, 0.78);
 }
 
+.love-your-fro{
+ color: rgba(208, 153, 134, 0.93);
+}
+
 h2.display-4{
      color: rgb(190, 186, 186);
 
@@ -93,7 +97,7 @@ a:hover {
     margin: auto;    
 }
 
-.love-your-fro{
+.love-your-fro {
     font-family: "Tangerine", sans-serif;
     font-size: 2.5rem;
     font-weight: 400;
@@ -101,16 +105,11 @@ a:hover {
     align-items: center;
     text-align: center;
     left: 35%;
-
+    text-decoration: overline;
 }
 
 
-/*-- love your fro bootstrap css overide --*/
-a:not([href]){
-    
-color: rgba(208, 153, 134, 0.93);
-text-decoration: overline;
-}
+
 
 a:not([href]):hover {
     color: rgba(208, 153, 134, 0.93);
