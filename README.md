@@ -148,7 +148,7 @@ To clone this project from GitHub:
 4. Change the current working directory to the location where you want the cloned directory to be made.
 5. Type ```git clone```, and then paste the URL you copied in Step 3.
 ```console
-git clone git@github.com:Tabita99/Au-Naturale.git
+git clone https://github.com/Tabita99/Au-Naturale.git
 ```
 6. Press Enter. Your local clone will be created.
 
@@ -162,7 +162,16 @@ Further reading and troubleshooting on cloning a repository from GitHub [here](h
 
 
 ### Media
-The photos used in this site were obtained from ...
+The photos used in this site were obtained from the following sites 
+
+- [Pexels](https://www.pexels.com/)
+- [Rawpixel](https://www.rawpixel.com/)
+- [Unsplash](https://unsplash.com/)
+- [Burst-shopify](https://burst.shopify.com/)
+- [Canva](https://www.canva.com/)
+- [here](https://stock.adobe.com/uk/)
+- [Google Maps](https://www.google.com/maps)
+- [Freephotos](https://freephotos.cc/)
 
 ### Acknowledgements
 I received inspiration for this project from X
