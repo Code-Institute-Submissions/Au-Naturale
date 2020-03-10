@@ -97,9 +97,10 @@ The client wants to add a  gallery page filled with a variety of customers to pr
 
 1. HTML & CSS Progamming languages 
 2. [Bootstrap](https://getbootstrap.com/): to make the website responsive on desktop, tablets and mobile devices. 
-3. [GitHub](https://github.com/):  Repository host for project and previe live website.
-4. [GIT](https://git-scm.com/): Used for version control 
-5. [Font Awesome](https://fontawesome.com/): Used for Social media icons e.g. facebook, twitter and instagram.
-6. [Google Fonts](https://fonts.google.com/): Tanagerine, Roboto and Lato 
-7. [Tinypng](https://tinypng.com/): Used to make large image files smaller 
-8. [Image Optimizer ](http://www.imageoptimizer.net/Pages/Home.aspx): Used to make large image files smaller when tinypng could not, as it has a 5mb maximum. 
+3. [jQuery](https://jquery.com/) - Javascript used for navbar
+4. [GitHub](https://github.com/):  Repository host for project and previe live website.
+5. [GIT](https://git-scm.com/): Used for version control 
+6. [Font Awesome](https://fontawesome.com/): Used for Social media icons e.g. facebook, twitter and instagram.
+7. [Google Fonts](https://fonts.google.com/): Tanagerine, Roboto and Lato 
+8. [Tinypng](https://tinypng.com/): Used to make large image files smaller 
+9. [Image Optimizer ](http://www.imageoptimizer.net/Pages/Home.aspx): Used to make large image files smaller when tinypng could not, as it has a 5mb maximum. 
