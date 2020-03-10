@@ -1,7 +1,27 @@
 # Au Naturale
-One or two paragraphs providing an overview of your project.
 
-Essentially, this part is your sales pitch.
+## Aim of the site 
+
+The client is opening a Natural hair salon for black women. The website intends to make it simple for people to book appointments and increase the overall presence of the salon brand online.
+The target audience is black women with natural hair. The purpose of the website is to inform customers of the services offered and who to. Due to a wave of black women going natural, there is a space in the market for said buisness. 
+
+Clients requirement  for the site are:
+
+1. A simple design with all colours coordinating.
+2. A slogan and pictures of natural hair
+3. section informing customers of what they do 
+4. Section with the services they offer 
+5. Form for booking appointments
+
+
+
+
+
+
+
+
+
+
 
 UX
 Use this section to provide insight into your UX process, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
