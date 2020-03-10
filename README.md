@@ -26,11 +26,15 @@ it differentiates from other hair care business because they only cater to black
 
  for customer browsing the site, who the target audience is  should be clear and so should  the services the buisness can provide.
 
- How much the services being offered will cost and an explanation of the services they will be receiving should be stated"
+ How much the services being offered will cost and an explanation of the services they will be receiving should be stated.
 
-" As an interested customer,  the booking appointment form should be straight forward to complete."
+"As an interested customer,  the booking appointment form should be straight forward to complete."
 
-" As a customer browsing the site, the contact  information should be easily accessible"
+"As a customer browsing the site, the contact  information should be easily accessible."
+
+"As a pontential customer using site , whe the salon open and closes hours."
+
+" As a potential customer using the site, when the salon open and closes hours."
 
 ## Wireframes Mockups:
 
@@ -78,7 +82,7 @@ Customers can book appointments using the form available and add additional info
 
 ### Reviews
 
-n the future, the client suggested the desire to add an area where customers can leave reviews on their webpage. 
+In the future, the client suggested the desire to add an area where customers can leave reviews on their webpage. 
 
 ### Taking payments online
 
