@@ -32,7 +32,19 @@ it differentiates from other hair care business because they only cater to black
 
 " As a customer browsing the site, the contact  information should be easily accessible"
 
+## Wireframes Mockups:
 
+###Desktop
+
+<img src="https://i.ibb.co/n8GXNks/Au-nautrale-desktop-version.png">
+
+### Tablet
+
+<img src="https://i.ibb.co/1s6f3mF/au-naturale-tablet-version.png">
+
+### Mobile 
+
+<img src="https://i.ibb.co/zhyWhnP/au-naturale-mobile-version.png">
 
 
 
