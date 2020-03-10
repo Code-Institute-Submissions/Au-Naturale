@@ -56,6 +56,22 @@ it differentiates from other hair care business because they only cater to black
 <img src="https://i.ibb.co/zhyWhnP/au-naturale-mobile-version.png">
 
 
+## Features
 
+
+### About us
+
+A short paragraph about what the salon does and the type of hair care they offer to customers.
+
+### Services
+
+A section about the six different services offered and a short description of each service.
+
+### Book Appointment
+
+Customers can book appointments using the form available and add additional information if needed.
+
+### Contact Us
+ Provides information on how to contact the salon and the salon opening hours. 
 
 
