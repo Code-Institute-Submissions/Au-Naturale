@@ -24,9 +24,9 @@ it differentiates from other hair care business because they only cater to black
 
 ## Client Stories
 
-"As a customer browsing the site, who the target audience is  should be clear and so should  the services the buisness can provide for me."
+ for customer browsing the site, who the target audience is  should be clear and so should  the services the buisness can provide.
 
-"As a customer browsing the site, how much the services being offered to me will cost and an explanation of the services I am receiving should be stated"
+ How much the services being offered will cost and an explanation of the services they will be receiving should be stated"
 
 " As an interested customer,  the booking appointment form should be straight forward to complete."
 
