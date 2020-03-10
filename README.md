@@ -114,14 +114,55 @@ Tested the site using the tools listed below.
 3. [W3C CSS validation](https://jigsaw.w3.org/css-validator/) CSS validation.
 4. [Unicorn Revealer](https://chrome.google.com/webstore/detail/unicorn-revealer/lmlkphhdlngaicolpmaakfmhplagoaln?hl=en-GB) rectify overflow issues.
 
-## Issues and Resolutions
+### Issues and Resolutions
 
-I expericned the following issues,
-- my boilerplate that i got from th cdn website did not work so all my bootstraps code were non- repsponsive. so when i started building it caused a lot of issues for me as i did not notice this earlier.This was fixed when i changed boilerplates.
-- I had an overflow issues because i had set all my images wdith above 300px including the width of my logo. 
- This was solved by setting all my width to 100% .
-- wanted to insert a crossfading image in my jumbtron, however that did not work well, because my selcted images were not of a similar size.
- This was resolved by removing one image. 
- - issues with my form, especially the drop down option as it would not align with rest f the form.
- - issues also with my the size of my fonts being inconsistnce on different device screen sizes.
-  Set @media break to make it more repsonsive by increasing the size for different widths.
+I experienced the following issues,
+-My boilerplate that I got from the CDN website did not work which made my bootstrap component unresponsive.  when I started building it caused a lot of issues. This was fixed when I changed boilerplates.
+- Experienced Overflow issues that were due to setting all my images width above 300px including my logo. 
+  This was solved by setting the widths to 100%,with the help of the tutors. 
+ -I wanted to insert a crossfading image in my jumbotron, this did not work because my selected images were not similar in size. This was resolved by removing one of the images and crossfade altogether.
+ - The next selected image for ther jumbotron did not go with my layout plan so i changed the image and moved the image to the background of my jumbotron.
+ - My appointment form drop-down option would not align. I changed the layout of my form to  make everything align 
+ - My paragraph was not lined up to my pictures in the about us feature. 
+ Set @media break to mak
+ - When i added the background image in my services feature, the texts could not be seen so, i had to add a an overlay and the the font color.
+
+ ## Deployment
+
+To deploy this page to GitHub Pages from its [GitHub repository](https://tabita99.github.io/Au-Naturale/), the following steps were taken: 
+
+1. From the menu items near the top of the page, select **Settings**.
+2. Scroll down to the **GitHub Pages** section.
+3. Under **Source** click the drop-down menu labelled **None** and select **Master Branch**
+4. On selecting Master Branch the page is automatically refreshed, the website is now deployed. 
+5. Scroll back down to the **GitHub Pages** section to retrieve the link to the deployed website.
+ 
+
+### How to run this project locally
+
+To clone this project from GitHub:
+
+1. Under the repository name, click "Clone or download".
+2. In the Clone with HTTPs section, copy the clone URL for the repository. 
+3. In your local IDE open Git Bash.
+4. Change the current working directory to the location where you want the cloned directory to be made.
+5. Type ```git clone```, and then paste the URL you copied in Step 3.
+```console
+git clone git@github.com:Tabita99/Au-Naturale.git
+```
+6. Press Enter. Your local clone will be created.
+
+Further reading and troubleshooting on cloning a repository from GitHub [here](https://tabita99.github.io/Au-Naturale/)
+
+---
+
+## Credits
+
+### Content
+
+
+### Media
+The photos used in this site were obtained from ...
+
+### Acknowledgements
+I received inspiration for this project from X
