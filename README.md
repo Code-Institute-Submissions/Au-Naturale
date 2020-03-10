@@ -74,4 +74,16 @@ Customers can book appointments using the form available and add additional info
 ### Contact Us
  Provides information on how to contact the salon and the salon opening hours. 
 
+## Future Goals
 
+### Reviews
+
+n the future, the client suggested the desire to add an area where customers can leave reviews on their webpage. 
+
+### Taking payments online
+
+With the growth of the buisness, online payments to be made when booking.
+
+### Gallery 
+
+The client wants to add a  gallery page filled with a variety of customers to promote their brand of inclusiveness.
