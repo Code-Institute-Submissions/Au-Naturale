@@ -13,6 +13,14 @@ Clients requirement  for the site are:
 4. Section with the services they offer 
 5. Form for booking appointments
 
+## UX 
+
+This is a new business venture in a very niche market. 
+ The main purpose is to increase the brands' presence online and attract customers. They are trying to tap into black women hair care and making a point of being inclusive of all hair types. 
+The website  will make this clear,
+it differentiates from other hair care business because they only cater to black women natural hair care.
+
+
 
 
 
