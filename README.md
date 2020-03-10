@@ -16,28 +16,27 @@ Clients requirement  for the site are:
 ## UX 
 
 This is a new business venture in a very niche market. 
- The main purpose is to increase the brands' presence online and attract customers. They are trying to tap into black women hair care and making a point of being inclusive of all hair types. 
+The main purpose is to increase the brands' presence online and attract customers. They are trying to tap into black women hair care and making a point of being inclusive of all hair types. 
 The website  will make this clear,
 it differentiates from other hair care business because they only cater to black women natural hair care.
 
 
 
+## Client Stories
+
+"As a customer browsing the site, who the target audience is  should be clear and so should  the services the buisness can provide for me."
+
+"As a customer browsing the site, how much the services being offered to me will cost and an explanation of the services I am receiving should be stated"
+
+" As an interested customer,  the booking appointment form should be straight forward to complete."
+
+" As a customer browsing the site, the contact  information should be easily accessible"
 
 
 
 
 
 
-
-
-
-UX
-Use this section to provide insight into your UX process, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
-
-In particular, as part of this section we recommend that you provide a list of User Stories, with the following general structure:
-
-As a user type, I want to perform an action, so that I can achieve a goal.
-This section is also where you would share links to any wireframes, mockups, diagrams etc. that you created as part of the design process. These files should themselves either be included as a pdf file in the project itself (in an separate directory), or just hosted elsewhere online and can be in any format that is viewable inside the browser.
 
 Features
 In this section, you should go over the different parts of your project, and describe each in a sentence or so.
