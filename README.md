@@ -160,6 +160,9 @@ Further reading and troubleshooting on cloning a repository from GitHub [here](h
 
 ### Content
 
+- The CSS from the services section (line 228) was copied and adapted from [W3schools](https://www.w3schools.com/howto/howto_css_overlay.asp) -
+- The header section code was copied from Richard wells https://d0nni387.github.io/Luxury-Door-Solutions/ 
+- Readme layout was copied as from Richard wells https://github.com/D0nni387/Luxury-Door-Solutions
 
 ### Media
 The photos used in this site were obtained from the following sites 
@@ -169,9 +172,8 @@ The photos used in this site were obtained from the following sites
 - [Unsplash](https://unsplash.com/)
 - [Burst-shopify](https://burst.shopify.com/)
 - [Canva](https://www.canva.com/)
-- [here](https://stock.adobe.com/uk/)
+- [adobe stock](https://stock.adobe.com/uk/)
 - [Google Maps](https://www.google.com/maps)
 - [Freephotos](https://freephotos.cc/)
 
 ### Acknowledgements
-I received inspiration for this project from X
