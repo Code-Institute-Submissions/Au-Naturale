@@ -104,3 +104,24 @@ The client wants to add a  gallery page filled with a variety of customers to pr
 7. [Google Fonts](https://fonts.google.com/): Tanagerine, Roboto and Lato 
 8. [Tinypng](https://tinypng.com/): Used to make large image files smaller 
 9. [Image Optimizer ](http://www.imageoptimizer.net/Pages/Home.aspx): Used to make large image files smaller when tinypng could not, as it has a 5mb maximum. 
+
+## Testing 
+
+Tested the site using the tools listed below.
+
+1. Google Chrome developer was the main tool used to check that my website was responsive on all screen sizes I also used it to test out how each of my CSS stylings looked when applied before including it on the CSS page.
+2. [W3C Markup Validation](https://validator.w3.org/)  HTML validation.
+3. [W3C CSS validation](https://jigsaw.w3.org/css-validator/) CSS validation.
+4. [Unicorn Revealer](https://chrome.google.com/webstore/detail/unicorn-revealer/lmlkphhdlngaicolpmaakfmhplagoaln?hl=en-GB) rectify overflow issues.
+
+## Issues and Resolutions
+
+I expericned the following issues,
+- my boilerplate that i got from th cdn website did not work so all my bootstraps code were non- repsponsive. so when i started building it caused a lot of issues for me as i did not notice this earlier.This was fixed when i changed boilerplates.
+- I had an overflow issues because i had set all my images wdith above 300px including the width of my logo. 
+ This was solved by setting all my width to 100% .
+- wanted to insert a crossfading image in my jumbtron, however that did not work well, because my selcted images were not of a similar size.
+ This was resolved by removing one image. 
+ - issues with my form, especially the drop down option as it would not align with rest f the form.
+ - issues also with my the size of my fonts being inconsistnce on different device screen sizes.
+  Set @media break to make it more repsonsive by increasing the size for different widths.
