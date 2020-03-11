@@ -131,6 +131,19 @@ a:hover {
 }
 
 
+
+@media (min-width: 768px) and (max-width: 991.98px){ 
+    
+    .nav-link{
+    white-space: nowrap;
+   
+    
+    
+    }
+    
+    }
+
+
 /*-- jumbotron/crossfading images--*/
 
 
