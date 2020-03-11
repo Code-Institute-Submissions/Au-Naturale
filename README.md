@@ -177,3 +177,10 @@ The photos used in this site were obtained from the following sites
 - [Freephotos](https://freephotos.cc/)
 
 ### Acknowledgements
+
+I would like to thank :
+
+- The tutors at code institute for their help
+- My mentor Antonio Rodriguez
+- [Richard Wells](https://github.com/D0nni387)
+- My peer at slack #peer-review code.
