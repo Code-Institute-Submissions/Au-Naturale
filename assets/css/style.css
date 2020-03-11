@@ -318,6 +318,7 @@ padding-left: 5px;
     }
     
     }
+    
 .book-appointment-button{
     position: relative;
     background-color: pink;
@@ -349,6 +350,7 @@ padding-left: 5px;
     background-color: #d29da6d1;
     border-color: pink;
  }
+ 
   .btn-primary:not(:disabled):not(.disabled):active, .show>.btn-primary.dropdown-toggle {
     color: #fff;
     background-color: #d29da6d1;
