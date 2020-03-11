@@ -148,39 +148,51 @@
 
 <section class="book-appointment-section">
     <h2 id="BookAppointment" class="book-appointment text-center"> Book Appointment</h2>
+ <div class="container">
     <form>
         <form class="book-appointment-form">
-            <div class="form-group">
-                 <label for="exampleFormControlInput1">Full Name</label>
-                 <input type="fullname" class="form-control" id="exampleFormControlInput1" placeholder="Full-Name">
+            <div class="row">
+                <div class="form-group col-8 offset-sm-1 offset-md-2 off-lg-2">
+                    <label for="exampleFormControlInput1">Full Name</label>
+                    <input type="fullname" class="form-control" id="exampleFormControlInput1" placeholder="Full-Name">
+                </div>
+           </div>
+        </form>
+        <div class="row">
+            <div class="form-group col-8 offset-sm-1 offset-md-2 off-lg-2">
+                <label for="exampleFormControlInput1">Email Address</label>
+                <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="name@example.com">
             </div>
-        <form>
-        <div class="form-group">
-             <label for="exampleFormControlInput1">Email Address</label>
-             <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="name@example.com">
         </div>
-        <div class="form-group">
-             <label for="exampleFormControlInput1">Contact</label>
-             <input type="contact" class="form-control" id="exampleFormControlInput1" placeholder="Contact">
+        <div class="row">
+            <div class="form-group col-8 offset-sm-1 offset-md-2 off-lg-2">
+                <label for="exampleFormControlInput1">Contact</label>
+                <input type="contact" class="form-control" id="exampleFormControlInput1" placeholder="Contact">
+            </div>
         </div>
-        <div class="form-group">
-            <label for="exampleFormControlSelect1">Select Service</label>
-            <select class="form-control" id="exampleFormControlSelect1">
-                <option>Wash n Go </option>
-                <option>Deep Condtion</option>
-                <option>Clay Mask Treatment</option>
-                <option>Twists outs </option>
-                <option>Hair Trim</option>
-                <option>The Big Chop</option>
-            </select>
+        <div class="row">
+            <div class="form-group col-8 offset-sm-1 offset-md-2 off-lg-2">
+                <label for="exampleFormControlSelect1">Select Service</label>
+                <select class="form-control" id="exampleFormControlSelect1">
+                  <option>Wash n Go </option>
+                  <option>Deep Condtion</option>
+                  <option>Clay Mask Treatment</option>
+                  <option>Twists outs </option>
+                  <option>Hair Trim</option>
+                  <option>The Big Chop</option>
+                </select>
+            </div>
         </div>
-        <div class="form-group">
-            <label for="exampleFormControlTextarea1">Additional info</label>
-            <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"> (any additonal info you'd like to add)</textarea>
+        <div class="row">
+            <div class="form-group col-8 offset-sm-1 offset-md-2 off-lg-2">
+                <label for="exampleFormControlTextarea1">Additional info</label>
+                <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"> (any additonal info you'd like to add)</textarea>
+            </div>
         </div>
         <p class="payment text-center"><mark><em>All payments will be taken in the salon</em></mark></p>
         <button type="submit" class="btn btn-primary btn-lg book-appointment-button text-uppercase .hvr-grow">Book</button>
     </form>
+ </div>
 </section>
 
 <!--images-->
