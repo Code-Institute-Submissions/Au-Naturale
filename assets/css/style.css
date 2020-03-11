@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700|Tangerine:100,200,300,400,500,600,700|Lato:100,200,300,400,500,600,700');
 
 /*-- Colors--*/
+
 .navbar a{
     color: rgb(190, 186, 186);
 
@@ -89,13 +90,15 @@ color:rgba(74, 41, 55, 0.35);
 .fa-instagram{
      color:rgb(87, 84, 84);
 }
+
 /*-- logo/navbar--*/
+
  .au-naturale-logo{
      text-align: center;
  }
 
-
  /*-- au-naturale-logo hover bootstrap override--*/
+
 a:hover {
     color: rgba(255, 180, 223, 0.78);
     text-decoration:none;
@@ -166,7 +169,6 @@ a:hover {
     transform: translateZ(0);
     box-shadow: 0 0 1px rgba(0, 0, 0, 0);
     backface-visibility: hidden;
-    -moz-osx-font-smoothing: grayscale;
     transition-duration: 0.3s;
     transition-property: transform;
 }
@@ -184,9 +186,6 @@ a:hover {
 
 
   background: url(../images/Optimized-black-purple.jpeg) no-repeat center; 
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
   background-size: cover;
 }           
 
@@ -237,6 +236,7 @@ a:hover {
 width: 100%;
     
 }
+
 /*-- services--*/
 
 #overlay {
@@ -264,9 +264,6 @@ width: 100%;
 #container-background-image{ 
     width: 100%;
   background: url(../images/Optimized-women.jpg) no-repeat center center fixed; 
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
   background-size: cover;
 }
 
@@ -286,7 +283,6 @@ float: right;
     text-align: justify;
 }
 
-
 /*-- book appointments--*/
 
 .book-appointment{
@@ -305,19 +301,19 @@ padding-left: 5px;
     position: relative;
     left: 55%;
     background-color: pink;
-    border-color: pink;
+    border-color: rgb(250, 189, 199);
     color: #f5f5f5e8;
 }
 
  .book-appointment-button:hover {
     color: #fff;
     background-color: #d29da6d1;
-    border-color: #d29da6d1;
+    border-color: pink;
  }
   .btn-primary:not(:disabled):not(.disabled):active, .show>.btn-primary.dropdown-toggle {
     color: #fff;
     background-color: #d29da6d1;
-    border-color: #d29da6d1;
+    border-color: pink;
 }
 
 .payment em {
@@ -325,10 +321,8 @@ padding-left: 5px;
     left: 10%;
 }
 
-
-
-
 /*-- images--*/
+
 .container-images{
 background-color: pink;
 }
@@ -342,8 +336,8 @@ background-color: pink;
 .image-section{
 padding-top: 70px}
 
-/*-- contact us--*/
 
+/*-- contact us--*/
 
 
 .contact-us{
@@ -451,10 +445,8 @@ padding-top: 70px}
     .icons{
     float: right;
     font-size: 2rem;
-   
     
-    
-    }
+          }
     
     }
 
