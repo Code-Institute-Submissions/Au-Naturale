@@ -169,7 +169,7 @@ a:hover {
     height: 500px;
 
 
-  background: url(../images/Optimized-black-purple.jpeg) no-repeat center bottom fixed; 
+  background: url(../images/Optimized-black-purple.jpeg) no-repeat center bottom; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
