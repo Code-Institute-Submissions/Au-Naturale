@@ -262,6 +262,7 @@ width: 100%;
 }
 
 #container-background-image{ 
+    width: 100%;
   background: url(../images/Optimized-women.jpg) no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -302,7 +303,7 @@ padding-left: 5px;
 
 .book-appointment-button{
     position: relative;
-    left: 45%;
+    left: 55%;
     background-color: pink;
     border-color: pink;
     color: #f5f5f5e8;
@@ -312,15 +313,20 @@ padding-left: 5px;
     color: #fff;
     background-color: #d29da6d1;
     border-color: #d29da6d1;
+ }
+  .btn-primary:not(:disabled):not(.disabled):active, .show>.btn-primary.dropdown-toggle {
+    color: #fff;
+    background-color: #d29da6d1;
+    border-color: #d29da6d1;
 }
 
-@media (min-width: 576px) { 
-    
-    .book-appointment-form .row {
-    
-    justify-content: center; }
-    
-    }
+.payment em {
+    position: relative;
+    left: 10%;
+}
+
+
+
 
 /*-- images--*/
 .container-images{
