@@ -300,14 +300,28 @@ label{
 padding-left: 5px;
 }
 
+@media (min-width: 1200px) { 
+    
+    .payment em {
+    
+    left: 10% }
+    
+ }
+
 .book-appointment-button{
     position: relative;
-    left: 55%;
     background-color: pink;
     border-color: rgb(250, 189, 199);
     color: #f5f5f5e8;
 }
 
+@media (min-width: 1200px) { 
+    
+    .book-appointment-button {
+    
+    left: 10% }
+    
+ }
  .book-appointment-button:hover {
     color: #fff;
     background-color: #d29da6d1;
@@ -321,7 +335,6 @@ padding-left: 5px;
 
 .payment em {
     position: relative;
-    left: 10%;
 }
 
 /*-- images--*/
