@@ -152,7 +152,7 @@ git clone https://github.com/Tabita99/Au-Naturale.git
 ```
 6. Press Enter. Your local clone will be created.
 
-Further reading and troubleshooting on cloning a repository from GitHub [here](https://tabita99.github.io/Au-Naturale/)
+Further reading and troubleshooting on cloning a repository from GitHub [here](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository/)
 
 ---
 
