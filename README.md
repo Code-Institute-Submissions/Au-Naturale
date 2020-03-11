@@ -124,9 +124,11 @@ I experienced the following issues,
  - The next selected image for ther jumbotron did not go with my layout plan so i changed the image and moved the image to the background of my jumbotron.
  - My appointment form drop-down option would not align. I changed the layout of my form to  make everything align 
  - My paragraph was not lined up to my pictures in the about us feature. 
- Set @media break to mak
- - When i added the background image in my services feature, the texts could not be seen so, i had to add a an overlay and the the font color.
-
+  Set @media break to mak
+- The background image on the services features did not work as you could not see the writing clearly, so I changed the background image.
+- My appointment to fit the whole page and was not very responsive in the mobile version, rectified this issue using bootstrap. 
+- My slogan was initially supposed to go on the jumbotron image however, it would not fit in the position i wanted it to be. I made the decision to place underneath my logo. 
+ 
  ## Deployment
 
 To deploy this page to GitHub Pages from its [GitHub repository](https://tabita99.github.io/Au-Naturale/), the following steps were taken: 
@@ -162,7 +164,7 @@ Further reading and troubleshooting on cloning a repository from GitHub [here](h
 
 - The CSS for text overlay (line 228) was copied and adapted from [W3schools](https://www.w3schools.com/howto/howto_css_overlay.asp) -
 - The header section code was copied from Richard wells https://d0nni387.github.io/Luxury-Door-Solutions/ 
-- Readme layout was copied as from Richard wells https://github.com/D0nni387/Luxury-Door-Solutions
+- Readme layout(and deployment section) was Richard wells https://github.com/D0nni387/Luxury-Door-Solutions
 
 ### Media
 The photos used in this site were obtained from the following sites 
@@ -175,6 +177,7 @@ The photos used in this site were obtained from the following sites
 - [adobe stock](https://stock.adobe.com/uk/)
 - [Google Maps](https://www.google.com/maps)
 - [Freephotos](https://freephotos.cc/)
+- [shutterstock](https://www.shutterstock.com/home)
 
 ### Acknowledgements
 
