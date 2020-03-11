@@ -319,9 +319,21 @@ padding-left: 5px;
     
     .book-appointment-button {
     
-    left: 10% }
+    left: 10%; }
     
  }
+
+ @media (min-width: 992px) and (max-width: 1199.98px) { 
+    
+    .book-appointment-button{
+    left: 7%;
+   
+    
+    
+    }
+    
+    }
+
  .book-appointment-button:hover {
     color: #fff;
     background-color: #d29da6d1;
