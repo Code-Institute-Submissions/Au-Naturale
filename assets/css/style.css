@@ -142,9 +142,10 @@ a:hover {
     margin: auto;
     position: relative;
     float: right;
-    top: 30%;
+    top: 50%;
 
 }
+
 /*  book button hover Grow */
 .hvr-grow {
     display: inline-block;
@@ -169,7 +170,7 @@ a:hover {
     height: 500px;
 
 
-  background: url(../images/Optimized-black-purple.jpeg) no-repeat center bottom; 
+  background: url(../images/Optimized-black-purple.jpeg) no-repeat center; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
